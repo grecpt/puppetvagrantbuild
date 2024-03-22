@@ -1,2 +1,2 @@
 # puppetvagrantbuild
-Puppet Client and Server Build with Vagrant
+Build Puppet Client and Server Build with Vagrant
